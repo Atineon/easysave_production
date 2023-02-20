@@ -10,6 +10,7 @@ User documentation is available to understand how the application works, especia
 
 
 ## Version 1.1
+
 ### Flowchart:
 
 ![Flow diagram](CDC/1.1/flow_diagram.png)
@@ -74,10 +75,11 @@ To install the application, you simply need to clone the repository. All files w
 
 User documentation is available to understand how the application works, especially to guide you to the main menu. It has been made so that the application is as UserFriendly as possible.
 
-## Version 2.0
-### Flowchart:
 
-![Flow diagram](CDC/2.0/flow_diagram.png)
+
+
+
+## Version 2.0
 
 ### Sequence diagram
 
@@ -142,3 +144,21 @@ Settings activity diagram :
 
  - Thread synchronisation
  - Progress bar
+
+
+
+
+
+## Version 3.0
+
+### Flowchart:
+
+![Flow diagram](CDC/3.0/flow_diagram.png)
+
+**LATEST RELEASE**
+
+ - 
+
+**UPCOMING FEATURES**
+
+ - 
