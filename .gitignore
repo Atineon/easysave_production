@@ -1,1 +1,6 @@
+# Folders
 .vs/
+
+# extenssions
+*.bkp
+*.dtmp
