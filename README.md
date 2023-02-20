@@ -12,43 +12,41 @@ User documentation is available to understand how the application works, especia
 ## Version 1.1
 ### Flowchart:
 
-![Flow diagram](CDC/flow_diagram_v1.1.png)
+![Flow diagram](CDC/1.1/flow_diagram.png)
 
 ### Sequence diagram
 
+#### Software actions :
+
 Show jobs :
 
-![showJobs sequence diagram](CDC/1.1/showJobs_sequence_diagram.png)
+![showJobs sequence diagram](CDC/1.1/sequence_diagram_job_show.png)
 
 Create a job :
 
-![CreateJob sequence diagram](CDC/1.1/createJob_sequence_diagram.png)
+![CreateJob sequence diagram](CDC/1.1/sequence_diagram_job_create.png)
 
 Delete a job :
 
-![DeleteJob sequence diagram](CDC/1.1/deleteJob_sequence_diagram.png)
+![DeleteJob sequence diagram](CDC/1.1/sequence_diagram_job_delete.png)
 
 Modify a job :
 
-![ModifyJob sequence diagram](CDC/1.1/modifyJob_sequence_diagram.png)
+![ModifyJob sequence diagram](CDC/1.1/sequence_diagram_job_modify.png)
 
-Save a job :
+#### Software settings
 
-![saveJob sequence diagram](CDC/1.1/saveJob_sequence_diagram.png)
+Set default settings :
 
-Save all jobs :
-
-![saveAllJobs sequence diagram](CDC/1.1/saveAllJobs_sequence_diagram.png)
+![defaultSettings sequence diagram](CDC/1.1/sequence_diagram_settings_defaultSettings.png)
 
 ### Activity diagram
 
-![General activity diagram](CDC/1.1/general_activity_diagram.png)
-![Jobs activity diagram](CDC/1.1/jobs_activity_diagram.png)
-![Settings activity diagram](CDC/1.1/settings_activity_diagram.png)
+![General activity diagram](CDC/1.1/activity_diagram.png)
 
 ### Use case
 
-![Usecase diagram](CDC/1.1/Usecase_diagram.png)
+![Usecase diagram](CDC/1.1/usecase_diagram.png)
 
 ### Class diagram
 
