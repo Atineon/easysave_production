@@ -85,11 +85,11 @@ User documentation is available to understand how the application works, especia
 
 Save a job :
 
-![SaveOne sequence diagram](CDC/1.1/sequence_diagram_job_saveOne.png)
+![SaveOne sequence diagram](CDC/2.0/sequence_diagram_job_saveOne.png)
 
 Save all jobs :
 
-![SaveAll sequence diagram](CDC/1.1/sequence_diagram_job_saveAll.png)
+![SaveAll sequence diagram](CDC/2.0/sequence_diagram_job_saveAll.png)
 
 #### Software settings :
 
