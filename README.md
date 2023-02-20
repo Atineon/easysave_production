@@ -107,8 +107,16 @@ Show logs:
 
 ### Activity diagram
 
+General activity diagram :
+
 ![General activity diagram](CDC/2.0/activity_diagram_general.png)
+
+Job activity diagram :
+
 ![Jobs activity diagram](CDC/2.0/activity_diagram_jobs.png)
+
+Settings activity diagram :
+
 ![Settings activity diagram](CDC/2.0/activity_diagram_settings.png)
 
 ### Use case
