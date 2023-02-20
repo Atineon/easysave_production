@@ -16,19 +16,29 @@ User documentation is available to understand how the application works, especia
 
 ### Sequence diagram
 
+Show jobs :
+
 ![showJobs sequence diagram](CDC/1.1/showJobs_sequence_diagram.png)
+
+Create a job :
 
 ![CreateJob sequence diagram](CDC/1.1/createJob_sequence_diagram.png)
 
+Delete a job :
+
 ![DeleteJob sequence diagram](CDC/1.1/deleteJob_sequence_diagram.png)
+
+Modify a job :
 
 ![ModifyJob sequence diagram](CDC/1.1/modifyJob_sequence_diagram.png)
 
+Save a job :
+
 ![saveJob sequence diagram](CDC/1.1/saveJob_sequence_diagram.png)
+
+Save all jobs :
 
 ![saveAllJobs sequence diagram](CDC/1.1/saveAllJobs_sequence_diagram.png)
-
-![saveJob sequence diagram](CDC/1.1/saveJob_sequence_diagram.png)
 
 ### Activity diagram
 
