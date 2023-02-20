@@ -81,17 +81,21 @@ User documentation is available to understand how the application works, especia
 
 ### Sequence diagram
 
-![ChangeLanguage sequence diagram](CDC/2.0/changeLanguage_sequence_diagram.png)
+#### Software actions :
+
+Set language :
+
+![ChangeLanguage sequence diagram](CDC/2.0/sequence_diagram_settings_changeLanguage.png)
 
 ### Activity diagram
 
-![General activity diagram](CDC/2.0/general_activity_diagram.png)
-![Jobs activity diagram](CDC/2.0/jobs_activity_diagram.png)
-![Settings activity diagram](CDC/2.0/settings_activity_diagram.png)
+![General activity diagram](CDC/2.0/activity_diagram_general.png)
+![Jobs activity diagram](CDC/2.0/activity_diagram_jobs.png)
+![Settings activity diagram](CDC/2.0/activity_diagram_settings.png)
 
 ### Use case
 
-![Usecase diagram](CDC/2.0/Usecase_diagram.png)
+![Usecase diagram](CDC/2.0/usecase_diagram.png)
 
 ### Class diagram
 
