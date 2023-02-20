@@ -20,7 +20,7 @@ User documentation is available to understand how the application works, especia
 
 Show jobs :
 
-![showJobs sequence diagram](CDC/1.1/sequence_diagram_job_show.png)
+![ShowJobs sequence diagram](CDC/1.1/sequence_diagram_job_show.png)
 
 Create a job :
 
@@ -38,7 +38,7 @@ Modify a job :
 
 Set default settings :
 
-![defaultSettings sequence diagram](CDC/1.1/sequence_diagram_settings_defaultSettings.png)
+![DefaultSettings sequence diagram](CDC/1.1/sequence_diagram_settings_defaultSettings.png)
 
 ### Activity diagram
 
@@ -83,9 +83,27 @@ User documentation is available to understand how the application works, especia
 
 #### Software actions :
 
+Save a job :
+
+![SaveOne sequence diagram](CDC/1.1/sequence_diagram_job_saveOne.png)
+
+Save all jobs :
+
+![SaveAll sequence diagram](CDC/1.1/sequence_diagram_job_saveAll.png)
+
+#### Software settings :
+
+Set display :
+
+![ChangeDisplay sequence diagram](CDC/2.0/sequence_diagram_settings_changeDisplay.png)
+
 Set language :
 
 ![ChangeLanguage sequence diagram](CDC/2.0/sequence_diagram_settings_changeLanguage.png)
+
+Show logs:
+
+![ShowLogs sequence diagram](CDC/2.0/sequence_diagram_settings_showLogs.png)
 
 ### Activity diagram
 
