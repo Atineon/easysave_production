@@ -1,12 +1,12 @@
 # EasySave
 ## Presentation
 
-Our team has just joined the software publisher ProSoft. Under the responsibility of the CIO, you will be in charge of managing the "EasySave" project which consists in developing a backup software.
+Our team has just joined the software publisher ProSoft. Under the responsibility of the CIO, you will be in charge of managing the EasySave project which consists in developing a backup program.
 
 **How to install the application ?**
 
-To install the application, you simply need to clone the repository. All files will be plugged in normally, then you just have to launch the executable file.
-User documentation is available to understand how the application works, especially to guide you to the main menu. It has been made so that the application is as UserFriendly as possible.
+To install the application, you simply need to clone the repository. All necessary files will be included, all you have to do is launch the executable file.
+User documentation is available to understand how the application works, especially to guide you through the main menu. It has been made so that the application is as user-friendly as possible.
 
 
 ## Version 1.1
@@ -55,7 +55,7 @@ Set default settings:
 
 **How to install the application ?**
 
-To install the application, you simply need to clone the repository. All files will be plugged in normally, then you just have to launch the executable file.
+To install the application, you simply need to clone the repository. All files will be included, all you have to do is launch the executable file.
 
 **LATEST RELEASE**
 
@@ -73,7 +73,7 @@ To install the application, you simply need to clone the repository. All files w
  - Evolution of log files
  - Business software
 
-User documentation is available to understand how the application works, especially to guide you to the main menu. It has been made so that the application is as UserFriendly as possible.
+User documentation is available to understand how the application works, especially to guide you through the main menu. It has been made so that the application is as user-friendly as possible.
 
 
 
