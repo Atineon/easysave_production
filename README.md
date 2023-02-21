@@ -203,6 +203,6 @@ Change extension type:
 
 #### Software remote:
 
-Connection:
+Remote use:
 
-![Connection sequence diagram](CDC/3.0/sequence_diagram_remote_connection.png)
+![RemoteUse sequence diagram](CDC/3.0/sequence_diagram_job_remoteUse.png)
