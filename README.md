@@ -227,7 +227,7 @@ Create a job:
 
 Modify a job:
 
-![ModifyJob activity diagram](CDC/3.0/activity_diagram_job_modify.ong)
+![ModifyJob activity diagram](CDC/3.0/activity_diagram_job_modify.png)
 
 Delete a job:
 
