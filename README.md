@@ -11,33 +11,33 @@ User documentation is available to understand how the application works, especia
 
 ## Version 1.1
 
-### Flowchart:
+### Flow diagram:
 
 ![Flow diagram](CDC/1.1/flow_diagram.png)
 
-### Sequence diagram
+### Sequence diagrams
 
-#### Software actions :
+#### Software actions:
 
-Show jobs :
+Show jobs:
 
 ![ShowJobs sequence diagram](CDC/1.1/sequence_diagram_job_show.png)
 
-Create a job :
+Create a job:
 
 ![CreateJob sequence diagram](CDC/1.1/sequence_diagram_job_create.png)
 
-Delete a job :
+Delete a job:
 
 ![DeleteJob sequence diagram](CDC/1.1/sequence_diagram_job_delete.png)
 
-Modify a job :
+Modify a job:
 
 ![ModifyJob sequence diagram](CDC/1.1/sequence_diagram_job_modify.png)
 
 #### Software settings
 
-Set default settings :
+Set default settings:
 
 ![DefaultSettings sequence diagram](CDC/1.1/sequence_diagram_settings_defaultSettings.png)
 
@@ -45,7 +45,7 @@ Set default settings :
 
 ![General activity diagram](CDC/1.1/activity_diagram.png)
 
-### Use case
+### Usecase diagram
 
 ![Usecase diagram](CDC/1.1/usecase_diagram.png)
 
@@ -81,25 +81,25 @@ User documentation is available to understand how the application works, especia
 
 ## Version 2.0
 
-### Sequence diagram
+### Sequence diagrams
 
-#### Software actions :
+#### Software actions:
 
-Save a job :
+Save a job:
 
 ![SaveOne sequence diagram](CDC/2.0/sequence_diagram_job_saveOne.png)
 
-Save all jobs :
+Save all jobs:
 
 ![SaveAll sequence diagram](CDC/2.0/sequence_diagram_job_saveAll.png)
 
-#### Software settings :
+#### Software settings:
 
-Set display :
+Set display:
 
 ![ChangeDisplay sequence diagram](CDC/2.0/sequence_diagram_settings_changeDisplay.png)
 
-Set language :
+Set language:
 
 ![ChangeLanguage sequence diagram](CDC/2.0/sequence_diagram_settings_changeLanguage.png)
 
@@ -107,21 +107,21 @@ Show logs:
 
 ![ShowLogs sequence diagram](CDC/2.0/sequence_diagram_settings_showLogs.png)
 
-### Activity diagram
+### Activity diagrams
 
-General activity diagram :
+General activity diagram:
 
 ![General activity diagram](CDC/2.0/activity_diagram_general.png)
 
-Job activity diagram :
+Job activity diagram:
 
 ![Jobs activity diagram](CDC/2.0/activity_diagram_jobs.png)
 
-Settings activity diagram :
+Settings activity diagram:
 
 ![Settings activity diagram](CDC/2.0/activity_diagram_settings.png)
 
-### Use case
+### Usecase diagram
 
 ![Usecase diagram](CDC/2.0/usecase_diagram.png)
 
@@ -151,14 +151,58 @@ Settings activity diagram :
 
 ## Version 3.0
 
-### Flowchart:
+### Flow diagram:
 
 ![Flow diagram](CDC/3.0/flow_diagram.png)
 
-**LATEST RELEASE**
+### Sequence diagrams
 
- - 
+#### Software actions:
 
-**UPCOMING FEATURES**
+Make an instant save:
 
- - 
+![InstantSave sequence diagram](CDC/3.0/sequence_diagram_job_instantSave.png)
+
+Create a job:
+
+![AddJob sequence diagram](CDC/3.0/sequence_diagram_job_create.png)
+
+Modify a job:
+
+![ModifyJob sequence diagram](CDC/3.0/sequence_diagram_job_modify.png)
+
+Delete a job:
+
+![Delete sequence diagram](CDC/3.0/sequence_diagram_job_delete.png)
+
+Save a job:
+
+![SaveOne sequence diagram](CDC/3.0/sequence_diagram_job_saveOne.png)
+
+Save all jobs:
+
+![SaveAll sequence diagram](CDC/3.0/sequence_diagram_job_saveAll.png)
+
+Save selected jobs:
+
+![SaveSelected sequence diagram](CDC/3.0/sequence_diagram_job_saveSelected.png)
+
+#### Software settings:
+
+Change default destination path:
+
+![changeDefaultDestinationPath sequence diagram](CDC/3.0/sequence_diagram_settings_changeDefaultDestinationPath.png)
+
+Change language:
+
+![ChangeLanguage sequence diagram](CDC/3.0/sequence_diagram_settings_changeLanguage.png)
+
+Change extension type:
+
+![ChangeExtensionType sequence diagram](CDC/3.0/sequence_diagram_settings_changeExtensionType.png)
+
+#### Software remote:
+
+Connection:
+
+![Connection sequence diagram](CDC/3.0/sequence_diagram_remote_connection.png)
