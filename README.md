@@ -221,7 +221,26 @@ Instant save:
 
 ![InstantSave activity diagram](CDC/3.0/activity_diagram_job_instantSave.png)
 
-
 Create a job:
 
-![CreateJob activity diagram](CDC/3.0/activity_diagram_job_createJob.png)
+![CreateJob activity diagram](CDC/3.0/activity_diagram_job_create.png)
+
+Modify a job:
+
+![ModifyJob activity diagram](CDC/3.0/activity_diagram_job_modify.ong)
+
+Delete a job:
+
+![DeleteJob activity diagram](CDC/3.0/activity_diagram_job_delete.png)
+
+Save a job:
+
+![SaveOne activity diagram](CDC/3.0/activity_diagram_job_saveOne.png)
+
+Save selected jobs:
+
+![SaveSelected activity diagram](CDC/3.0/activity_diagram_job_saveSelected.png)
+
+Save all jobs:
+
+![SaveAll activity diagram](CDC/3.0/activity_diagram_job_saveAll.png)
