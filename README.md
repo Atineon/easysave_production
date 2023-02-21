@@ -217,6 +217,8 @@ General:
 
 ![Genereal activity diagram](CDC/3.0/activity_diagram_general.png)
 
+#### Software actions:
+
 Instant save:
 
 ![InstantSave activity diagram](CDC/3.0/activity_diagram_job_instantSave.png)
@@ -244,3 +246,17 @@ Save selected jobs:
 Save all jobs:
 
 ![SaveAll activity diagram](CDC/3.0/activity_diagram_job_saveAll.png)
+
+#### Software settings:
+
+Change language:
+
+![changeLanguage activity diagram](CDC/3.0/activity_diagram_settings_changeLanguage.png)
+
+Change logs extension type:
+
+![ChangeExtensionType activity diagram](CDC/3.0/activity_diagram_settings_changeExtensionType.png)
+
+Change default destination path:
+
+![ChangeDefaultDestinationPath activity diagram](CDC/3.0/activity_diagram_settings_changeDefaultDestinationPath.png)
