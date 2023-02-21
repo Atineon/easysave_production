@@ -199,7 +199,7 @@ Change language:
 
 Change extension type:
 
-![ChangeExtensionType sequence diagram](CDC/3.0/sequence_diagram_settings_changeExtensionType.png)
+![ChangeFileExtensionType sequence diagram](CDC/3.0/sequence_diagram_settings_changeFileExtensionType.png)
 
 #### Software remote:
 
