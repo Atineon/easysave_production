@@ -206,3 +206,7 @@ Change extension type:
 Remote use:
 
 ![RemoteUse sequence diagram](CDC/3.0/sequence_diagram_job_remoteUse.png)
+
+### Usecase diagram
+
+![Usecase diagram](CDC/3.0/usecase_diagram.png)
