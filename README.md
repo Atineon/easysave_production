@@ -1,7 +1,7 @@
 # EasySave
 ## Presentation
 
-Our team has just joined the software publisher ProSoft. Under the responsibility of the CIO, you will be in charge of managing the EasySave project which consists in developing a backup program.
+Our team has just joined the software publisher ProSoft. Under the responsibility of the CIO, we'll be in charge of managing the EasySave project which consists in developing a backup program.
 
 **How to install the application ?**
 
