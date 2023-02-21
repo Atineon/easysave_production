@@ -260,3 +260,7 @@ Change logs extension type:
 Change default destination path:
 
 ![ChangeDefaultDestinationPath activity diagram](CDC/3.0/activity_diagram_settings_changeDefaultDestinationPath.png)
+
+### Compnent diagram
+
+![Component diagram](CDC/3.0/component_diagram.png)
