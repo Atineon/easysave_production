@@ -210,3 +210,18 @@ Remote use:
 ### Usecase diagram
 
 ![Usecase diagram](CDC/3.0/usecase_diagram.png)
+
+### Activity diagrams
+
+General:
+
+![Genereal activity diagram](CDC/3.0/activity_diagram_general.png)
+
+Instant save:
+
+![InstantSave activity diagram](CDC/3.0/activity_diagram_job_instantSave.png)
+
+
+Create a job:
+
+![CreateJob activity diagram](CDC/3.0/activity_diagram_job_createJob.png)
