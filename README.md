@@ -285,6 +285,6 @@ Change business software:
 
 ![ChangeBusinessSoftware activity diagram](CDC/3.0/activity_diagram_settings_changeBusinessSoftware.png)
 
-### Compnent diagram
+### Component diagram
 
 ![Component diagram](CDC/3.0/component_diagram.png)
