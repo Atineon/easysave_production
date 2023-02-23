@@ -1,4 +1,5 @@
 # EasySave
+
 ## Presentation
 
 Our team has just joined the software publisher ProSoft. Under the responsibility of the CIO, we'll be in charge of managing the EasySave project which consists in developing a backup program.
@@ -7,7 +8,6 @@ Our team has just joined the software publisher ProSoft. Under the responsibilit
 
 To install the application, you simply need to clone the repository. All necessary files will be included, all you have to do is launch the executable file.
 User documentation is available to understand how the application works, especially to guide you through the main menu. It has been made so that the application is as user-friendly as possible.
-
 
 ## Version 1.1
 
@@ -59,25 +59,21 @@ To install the application, you simply need to clone the repository. All files w
 
 **LATEST RELEASE**
 
- - Ability to backup folders and files
- - Ability to change application settings
- - Ability to create and view a backup job
- - Log files in JSON
+- Ability to backup folders and files
+- Ability to change application settings
+- Ability to create and view a backup job
+- Log files in JSON
 
 **UPCOMING FEATURES**
 
- - Graphics application
- - Log files in XML
- - Unlimited number of backup jobs
- - Backup encryption
- - Evolution of log files
- - Business software
+- Graphics application
+- Log files in XML
+- Unlimited number of backup jobs
+- Backup encryption
+- Evolution of log files
+- Business software
 
 User documentation is available to understand how the application works, especially to guide you through the main menu. It has been made so that the application is as user-friendly as possible.
-
-
-
-
 
 ## Version 2.0
 
@@ -135,19 +131,15 @@ Settings activity diagram:
 
 **LATEST RELEASE**
 
- - Graphical application
- - Log files in XML
- - Unlimited number of backup jobs
- - Backup encryption
+- Graphical application
+- Log files in XML
+- Unlimited number of backup jobs
+- Backup encryption
 
 **UPCOMING FEATURES**
 
- - Thread synchronisation
- - Progress bar
-
-
-
-
+- Thread synchronisation
+- Progress bar
 
 ## Version 3.0
 
@@ -200,6 +192,22 @@ Change language:
 Change extension type:
 
 ![ChangeFileExtensionType sequence diagram](CDC/3.0/sequence_diagram_settings_changeFileExtensionType.png)
+
+Change business software process list:
+
+![ChangeBusinessSoftwareProcesses sequence diagram](CDC/3.0/sequence_diagram_settings_changeBusinessSoftwareProcesses.png)
+
+Change encryption extension list:
+
+![ChangeEncryptionExtension sequence diagram](CDC/3.0/sequence_diagram_settings_changeEncryptionExtension.png)
+
+Change maximum file size:
+
+![ChangeMaximumFileSize sequence diagram](CDC/3.0/sequence_diagram_settings_changeMaximumFileSize.png)
+
+Change priority software extensions list:
+
+![ChangePrioritySoftwareExtension sequence diagram](CDC/3.0/sequence_diagram_settings_changePrioritySoftwareExtension.png)
 
 #### Software remote:
 
