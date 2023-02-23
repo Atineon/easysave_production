@@ -261,6 +261,22 @@ Change default destination path:
 
 ![ChangeDefaultDestinationPath activity diagram](CDC/3.0/activity_diagram_settings_changeDefaultDestinationPath.png)
 
+Change encryption extension:
+
+![ChangeEncryptionExtension activity diagram](CDC/3.0/activity_diagram_settings_changeEncryptionExtension.png)
+
+Change priority software extension:
+
+![ChangePrioritySoftwareExtension activity diagram](CDC/3.0/activity_diagram_settings_changePrioritySoftwareExtension.png)
+
+Change maximum file size:
+
+![ChangeMaximumFileSize activity diagram](CDC/3.0/activity_diagram_settings_changeMaximumFileSize.png)
+
+Change business software:
+
+![ChangeBusinessSoftware activity diagram](CDC/3.0/activity_diagram_settings_changeBusinessSoftware.png)
+
 ### Compnent diagram
 
 ![Component diagram](CDC/3.0/component_diagram.png)
